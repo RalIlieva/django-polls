@@ -1,0 +1,9 @@
+li a {
+    color:white;
+}
+
+body {
+    background: white url("images/background.jpg") no-repeat;
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-position: center; /* Center the background image horizontally and vertically */
+}
